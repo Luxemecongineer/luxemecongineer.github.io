@@ -1,8 +1,10 @@
 /* Center the author name and details under the profile image */
-.sidebar .author__content {
-    text-align: center;
+.author__content {
+    text-align: center !important;
 }
 
-.sidebar .author__avatar {
-    margin: 0 auto;
+/* Center the avatar */
+.author__avatar {
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
