@@ -1,0 +1,8 @@
+/* Center the author name and details under the profile image */
+.sidebar .author__content {
+    text-align: center;
+}
+
+.sidebar .author__avatar {
+    margin: 0 auto;
+}
