@@ -10,18 +10,18 @@ author_profile: true
   *(draft available upon request)*
 
 - **Joint Predictions and Counterfactuals under Symmetric Latent Information**  
-  *(draft coming soon)*
+  *(draft in preparation)*
 
-- **Market Size And Market Structure: Estimating an Entry Game with Latent Information Structure**  
-  *(draft coming soon)*
+- **Market Size and Market Structure: Estimating an Entry Game under Latent Information**  
+  *(draft in preparation)*
 
 ## Work in Progress
 
-- **Semiparametric Identification of Multinomial Choice Models with Covariate Data on a Subset of Choices**, with Jeremy Fox
+- **Semiparametric Identification of Multinomial Choice Models with Covariate Data on a Subset of Choices**
+  with Jeremy Fox
 
-- **Estimating a Model of Wireless Carrier Mergers Using a Subset of Choices**, with Jeremy Fox
+- **Estimating a Model of Wireless Carrier Mergers Using a Subset of Choices**
+  with Jeremy Fox
   
-- **Demand, Information, and Pricing in the Thoroughbred Breeding Market**, with Xuanning Zhang
-  
-- **Liability Choice and Consumer Heterogeneity under Rate Deregulation: Evidence from China’s Auto Insurance Market**
-  
+- **Demand, Information, and Pricing in the Thoroughbred Breeding Market**
+  with Xuanning Zhang  
