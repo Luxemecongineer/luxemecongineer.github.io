@@ -18,10 +18,10 @@ author_profile: true
 ## Work in Progress
 
 - **Semiparametric Identification of Multinomial Choice Models with Covariate Data on a Subset of Choices**  
-  with Jeremy Fox
+  *with Jeremy Fox*
 
 - **Estimating a Model of Wireless Carrier Mergers Using a Subset of Choices**  
-  with Jeremy Fox
+  *with Jeremy Fox*
   
 - **Demand, Information, and Pricing in the Thoroughbred Breeding Market**  
-  with Xuanning Zhang  
+  *with Xuanning Zhang*  
