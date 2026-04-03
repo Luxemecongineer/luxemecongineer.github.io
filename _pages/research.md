@@ -9,14 +9,14 @@ author_profile: true
 - **Symmetric Bayes Correlated Equilibrium: An Exact Characterization under Latent Information**  
   *(draft available upon request)*
 
-- **[Symmetric Robust Auction Inference under Latent Information: A Note](/files/Lu_Symmetric_Robust_Auction_Inference_Note.pdf)**  
-  *(preliminary draft; limited circulation)*
+- **Market Size and Market Structure: Estimating an Entry Game under Latent Information**  
+  *(draft in preparation)*
 
 - **Joint Predictions and Counterfactuals under Symmetric Latent Information**  
   *(draft in preparation)*
-
-- **Market Size and Market Structure: Estimating an Entry Game under Latent Information**  
-  *(draft in preparation)*
+  
+- **[Symmetric Robust Auction Inference under Latent Information: A Note](/files/Lu_Symmetric_Robust_Auction_Inference_Note.pdf)**  
+  *(preliminary draft; limited circulation)*
 
 ## Work in Progress
 
