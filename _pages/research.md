@@ -9,7 +9,7 @@ author_profile: true
 - **Symmetric Bayes Correlated Equilibrium: An Exact Characterization under Latent Information**  
   *(draft available upon request)*
 
-- **Symmetric Robust Auction Inference under Latent Information: A Note**  
+- **[Symmetric Robust Auction Inference under Latent Information: A Note](/files/Lu_Symmetric_Robust_Auction_Inference_Note.pdf)**  
   *(preliminary draft; limited circulation)*
 
 - **Joint Predictions and Counterfactuals under Symmetric Latent Information**  
