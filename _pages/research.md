@@ -7,7 +7,7 @@ author_profile: true
 ## Working Papers
 
 - **[Symmetric Bayes Correlated Equilibrium: An Exact Characterization under Latent Information](/files/Lu_SBCE_Exact_Characterization_Apr2026.pdf)**  
-  *(draft, April 2026)*[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6554679)
+  *(draft, April 2026)* · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6554679)
 
 - **Market Size and Market Structure: Estimating an Entry Game under Latent Information**  
   *(draft in preparation)*
