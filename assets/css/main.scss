@@ -45,15 +45,10 @@
 /* homepage banner */
 .homepage-banner {
   width: 100vw;
-  height: 220px;
+  height: 240px;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   margin-top: -1rem;
   margin-bottom: 2rem;
-  background-image:
-    linear-gradient(rgba(255, 255, 255, 0.20), rgba(255, 255, 255, 0.20)),
-    url("/images/rice-header-soft.jpeg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
+  background: red;
 }
