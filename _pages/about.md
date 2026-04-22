@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/rice-header-soft.jpeg" alt="Rice campus banner" style="width:100%; height:220px; object-fit:cover; object-position:center; border-radius:4px; margin-bottom:1.5em;">
+
+<div class="homepage-banner"></div>
 
 Hello! I am Sen Lu, an Assistant Professor in the School of Insurance at the Central University of Finance and Economics. My research studies strategic behavior, identification, and prediction under latent or incomplete information, combining game theory and econometric methods.
 
