@@ -2,6 +2,9 @@
 permalink: /
 title: "About Me"
 author_profile: true
+header:
+  overlay_image: /images/rice-header-soft.jpeg
+  overlay_filter: 0.25
 redirect_from: 
   - /about/
   - /about.html
