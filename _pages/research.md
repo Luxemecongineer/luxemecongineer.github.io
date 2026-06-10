@@ -14,6 +14,9 @@ author_profile: true
 
 - **Joint Predictions and Counterfactuals under Symmetric Latent Information**  
   *(draft in preparation)*
+
+- **Demand for Rare Success: Salient Realizations and Latent Quality in the Stallion Market**  
+  *(draft in preparation) with Xuanning Zhang*
   
 - **[Symmetric Robust Auction Inference under Latent Information: A Note](/files/Lu_Symmetric_Robust_Auction_Inference_Note.pdf)**  
   *(preliminary draft; limited circulation)*
@@ -25,6 +28,3 @@ author_profile: true
 
 - **Estimating a Model of Wireless Carrier Mergers Using a Subset of Choices**  
   *with Jeremy Fox*
-  
-- **Demand, Information, and Pricing in the Thoroughbred Breeding Market**  
-  *with Xuanning Zhang*  
