@@ -12,7 +12,7 @@ author_profile: true
 - **Market Size and Market Structure: Estimating an Entry Game under Latent Information**  
   *(draft in preparation)*
 
-- **Joint Predictions and Counterfactuals under Symmetric Latent Information(/files/Lu_JointPredictionsCounterfactuals_June2026.pdf)**  
+- **[Joint Predictions and Counterfactuals under Symmetric Latent Information](/files/Lu_JointPredictionsCounterfactuals_June2026.pdf)**  
   *(draft, June 2026)* · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6918338)
 
 - **Demand for Rare Success: Salient Realizations and Latent Quality in the Stallion Market**  
