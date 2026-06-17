@@ -18,7 +18,7 @@ author_profile: true
 - **Demand for Rare Success: Salient Realizations and Latent Quality in the Stallion Market**  
   *(draft in preparation) with Xuanning Zhang*
   
-- **[Symmetric Robust Auction Inference under Latent Information: A Note](/files/Lu_Symmetric_Robust_Auction_Inference_Note.pdf)**  
+- **[Symmetric Robust Auction Inference under Latent Information: A Note](/files/Lu_Symmetric_Robust_Auction_Inference_Note_June26.pdf)**  
   *(preliminary draft; limited circulation)*
 
 ## Work in Progress
